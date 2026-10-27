@@ -1,5 +1,5 @@
 function getStatus() {
-  return "Not Ready to not be merged";
+  return "Ready";
 }
 
 module.exports = { getStatus };
