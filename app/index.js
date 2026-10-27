@@ -1,5 +1,5 @@
 function getStatus() {
-  return "Ready";
+  return "Ready for the day";
 }
 
 module.exports = { getStatus };
